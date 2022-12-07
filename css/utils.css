@@ -10,3 +10,7 @@
 	clear: both;
 	display: table;
 }
+
+h2{
+	cursor: pointer;
+}

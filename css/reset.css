@@ -18,7 +18,30 @@ img,
 svg,
 picture,
 video {
-	
+
+	display: block;
+	cursor: pointer;
+
+	margin-bottom: 5px;
+
+
 	width: 400px
 		
 }
+
+  .img2:hover{
+	cursor: pointer;
+	display: none;
+	
+	
+	
+	
+	
+
+}
+
+
+.img1:hover{
+	
+}
+
