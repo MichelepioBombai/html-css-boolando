@@ -1,0 +1,26 @@
+/* HEADER */
+
+.header-head{
+    min-height: 60px;
+    background-color: darkorange;
+    padding: 10px 0;
+
+}
+
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+
+}
+
+.header-nav > * {
+    color: white;
+    font-size: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+
+}
+
+
+
