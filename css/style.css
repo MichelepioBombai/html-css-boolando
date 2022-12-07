@@ -136,6 +136,7 @@
     position: relative;
     top: 30px;
     right: 275px;
+    cursor: pointer;
     
 } 
 
@@ -146,9 +147,11 @@ h3{
 .icons-footer{
     position: relative;
     top: 30px;
+    cursor: pointer;
 }
 
 .info-2{
     position: relative;
     left: 275px;
+    
 }
