@@ -8,6 +8,7 @@
 	margin: 0;
 	padding: 0;
 	font-weight: inherit;
+	font-family: sans-serif;
 }
 
 body {
@@ -22,7 +23,7 @@ video {
 	display: block;
 	cursor: pointer;
 
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 
 
 	width: 400px
@@ -41,7 +42,7 @@ video {
 }
 
 
-.img1:hover{
+
 	
-}
+
 
