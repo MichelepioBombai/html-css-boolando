@@ -22,6 +22,10 @@
 
 }
 
+.logo{
+    width: 150px;
+}
+
 /* MAIN */
 
 .column{
@@ -37,6 +41,7 @@
     position: relative;
     width: 30%;
     
+    
 
     
 }
@@ -45,6 +50,7 @@
     width: 30%;
     margin-top: 30px;
     position: relative;
+    
 }
 
 .discount-badge{
@@ -52,22 +58,35 @@
     color: white;
     background-color: red;
     left: 0;
-    top: 170px;   
+    top: 500px;   
+    padding: 3px 7px;
 }
 
 .badge-green{
     position: absolute;
     color: white;
     background-color: green;
-    padding: 3px 3px;
-    left: 40px;
-    top: 165px;  
+    padding: 3px 5px;
+    left: 50px;
+    top: 500px;  
 }
 
 .hearts{
     position: absolute;
-    right: 210px;
+    right: -40px;
     background-color: white;
-    top: 5px;
-    padding: 3px 5px;
+    top: 15px;
+    padding: 2px 15px;
+    font-size: 40px;
+}
+
+.hearts:hover {
+    color: red;
+    position: absolute;
+    right: -40px;
+    background-color: white;
+    top: 15px;
+    padding: 2px 15px;
+    font-size: 40px;
+    cursor: pointer;
 }
